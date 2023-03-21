@@ -1,8 +1,14 @@
 9.4 «Система мониторинга Prometheus - Евгения Баланюк»
 
+Задание 1
+
 ![VirtualBox_debian_monitoring_21_03_2023_19_29_48](https://user-images.githubusercontent.com/62482983/226685053-810ceadd-3972-4d73-a1eb-6177942bd678.png)
 
+Задание 2
+
 ![VirtualBox_debian_monitoring_21_03_2023_19_25_23](https://user-images.githubusercontent.com/62482983/226685028-54e4a523-e322-4123-bd3a-e157742469a7.png)
+
+Задание 3
 
 ![VirtualBox_debian_monitoring_21_03_2023_19_47_01](https://user-images.githubusercontent.com/62482983/226685225-aac63ee0-948c-43f4-8613-519462a3976d.png)
 
